@@ -1,0 +1,3 @@
+[submodule "user_management_api"]
+	path = user_management_api
+	url = https://github.com/ArieqFazil/user_management_api.git
