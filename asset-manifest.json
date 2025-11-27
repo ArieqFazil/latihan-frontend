@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/latihan-frontend/static/css/main.302cc951.css",
-    "main.js": "/latihan-frontend/static/js/main.f28284b1.js",
+    "main.js": "/latihan-frontend/static/js/main.e0983e64.js",
     "index.html": "/latihan-frontend/index.html",
     "main.302cc951.css.map": "/latihan-frontend/static/css/main.302cc951.css.map",
-    "main.f28284b1.js.map": "/latihan-frontend/static/js/main.f28284b1.js.map"
+    "main.e0983e64.js.map": "/latihan-frontend/static/js/main.e0983e64.js.map"
   },
   "entrypoints": [
     "static/css/main.302cc951.css",
-    "static/js/main.f28284b1.js"
+    "static/js/main.e0983e64.js"
   ]
 }
